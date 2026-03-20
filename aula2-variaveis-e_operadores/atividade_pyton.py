@@ -21,10 +21,10 @@ print(f"o meu nome é {nome} e tenho {idade} anos")
 nome = input("Digite o seu nome: ")
 
 num = int(input("Digite a sua idade: "))
-nova_Idade = idade + 1
+novaIdade = idade + 1
 print(nome, idade)
 print(idade + 1)
-print(nova_Idade)
+print(novaIdade)
 
 
 
