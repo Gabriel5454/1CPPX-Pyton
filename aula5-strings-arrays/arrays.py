@@ -1,4 +1,4 @@
-from bokeh.palettes import Oranges9
+
 
 lista_frutas = ["Morango", "Maça", "Uva"]
 # Lista frutas[0] = "Morango"
